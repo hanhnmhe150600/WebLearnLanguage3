@@ -42,7 +42,7 @@ public class Account_Insert extends HttpServlet {
             out.println("<title>Servlet Account_Insert</title>");            
             out.println("</head>");
             out.println("<body>");
-            out.println("<h1>Servlet Account_Insert at " + request.getContextPath() + "</h1>");
+            out.println("<h1>Servlet Account_Inserts at " + request.getContextPath() + "</h1>");
             out.println("</body>");
             out.println("</html>");
         }
